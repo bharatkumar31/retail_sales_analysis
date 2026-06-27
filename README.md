@@ -211,15 +211,33 @@ Retail-Sales-Analysis/
 
 # Dashboard Preview
 
-> **Add your Tableau dashboard screenshot here**
+<p align="center">
+<img src="tableau/Retail Sales Analytics Dashboard.png" alt="FinTech Transaction Dashboard" width="100%">
+</p>
 
-![Dashboard Preview](images/dashboard_preview.png)
 
----
 
+🔗 **Tableau Dashboard:** [Open Dashboard](https://public.tableau.com/views/retail_sales_analytics/RetailSalesAnalyticsDashboard)
+
+
+--
 # 📄 EDA Report
 
-Python automatically generates a PDF report containing all exploratory data analysis visualizations.
+Python automatically generates a PDF report containing all exploratory data analysis (EDA) visualizations.
+
+📑 **View Report:** [Retail Sales EDA Report](Python/Retail_Sales_EDA_Report.pdf)
+
+> The report includes:
+> - Monthly Revenue Trend
+> - Revenue by Category
+> - Top Products
+> - Top Customers
+> - Revenue by Store
+> - Revenue by Customer City
+> - Shipment Status Distribution
+> - Average Selling Price by Category
+> - Top Suppliers by Revenue
+> - Customer Signups Over Time
 
 ---
 
