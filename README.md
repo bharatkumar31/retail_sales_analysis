@@ -187,11 +187,13 @@ Retail-Sales-Analysis/
 │   └── shipments.csv
 │
 ├── SQL/
-│   ├── database_creation.sql
-│   ├── data_import.sql
-│   ├── analysis_queries.sql
-│   ├── analytical_views.sql
-│
+│   ├── create_database.sql
+│   ├── create_tables.sql
+│   ├── load_data.sql
+│   ├── data_validation_cleaning.sql
+│   ├── bussiness_queries.sql
+|   ├── views.sql
+|
 ├── Python/
 │   ├── retail_sales_analysis.ipynb
 │   ├── Retail_EDA_Report.pdf
